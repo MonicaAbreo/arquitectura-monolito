@@ -1,0 +1,13 @@
+Iniciando solución: Monolito de Alto Rendimiento...
+Comunicación entre hilos mediante canales en memoria.
+Lanzando 1000000 estímulos y midiendo la latencia de ida y vuelta...
+Medición completada.
+
+--- Resultados de Latencia (Monolito en Memoria) ---
+Pruebas realizadas: 1000000
+Latencia Mínima:   375 ns
+Latencia Promedio: 7400 ns
+Latencia Máxima:    2735542 ns
+----------------------------------------------------
+
+OBJETIVO CUMPLIDO: La latencia promedio de nanosegundos es miles de veces inferior al objetivo de 1 milisegundo.
